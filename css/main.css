@@ -477,7 +477,7 @@ padding-top: 80px;
 
   .container{
     background-position: center center;
-    height: 55vh;
+    height: 60vh;
   }
   #one{
     height: auto;
@@ -521,7 +521,7 @@ padding-top: 80px;
     }
 
     #four{
-      height: 55vh;
+      height: 60vh;
       background-position: center;
     }
     #four .inner_square{
